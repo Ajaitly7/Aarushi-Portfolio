@@ -51,6 +51,19 @@ _What patterns in the feedback emerge?  What did you learn from the feedback?  B
 
 ## Step five: build the solution
 
+## Tableau Visualization
+
+Click the image below to view the interactive dashboard:
+
+
+[![Interactive Tableau Dashboard](https://public.tableau.com/static/images/As/Assignment3_17631523273990/Sheet1/1.png)](https://public.tableau.com/views/Assignment3_17631523273990/Sheet1)
+
+[![Interactive Tableau Dashboard](https://public.tableau.com/static/images/As/Assignment3p2_17631530998880/Aarushiassignment3p2/1.png)](https://public.tableau.com/views/Assignment3p2_17631530998880/Aarushiassignment3p2)
+
+
+
+
+
 _Include and describe your final solution here. It's also a good idea to summarize your thoughts on the process overall. When you're done with the assignment, this page should all the items mentioned in the assignment page on Canvas(a link or screenshot of the original data visualization, documentation explaining your process, a summary of your wireframes and user feedback, your final, redesigned data visualization, etc.)._
 
 ## References
