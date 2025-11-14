@@ -58,9 +58,11 @@ Click the image below to view the interactive dashboard:
 
 [![Interactive Tableau Dashboard](https://public.tableau.com/static/images/As/Assignment3_17631523273990/Sheet1/1.png)](https://public.tableau.com/views/Assignment3_17631523273990/Sheet1)
 
+https://public.tableau.com/views/Assignment3_17631523273990/Sheet1
+
 [![Interactive Tableau Dashboard](https://public.tableau.com/static/images/As/Assignment3p2_17631530998880/Aarushiassignment3p2/1.png)](https://public.tableau.com/views/Assignment3p2_17631530998880/Aarushiassignment3p2)
 
-
+https://public.tableau.com/views/Assignment3p2_17631530998880/Aarushiassignment3p2
 
 
 
