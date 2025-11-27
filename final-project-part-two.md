@@ -24,21 +24,34 @@ Urban planning students and researchers interested in bike-share equity analysis
 
 My approach to recruiting interviewees:
 
-Snowball sampling among peers and friends who live in Pittsburgh or nearby and have varying levels of data literacy
-Prioritize participants who think like decision-makers or advocates—at least one participant who works in or studies something related to urban planning, public policy, or community advocacy
-At least one participant who rarely or never uses bike-share, to test whether the story is accessible and engaging for non-cyclists
-Mix of data comfort levels—from people who work with data regularly to those who find charts intimidating
+- Snowball sampling among peers and friends who live in Pittsburgh or nearby and have varying levels of data literacy
+- Prioritize participants who think like decision-makers or advocates—at least one participant who works in or studies something related to urban planning, public policy, or community advocacy
+- At least one participant who rarely or never uses bike-share, to test whether the story is accessible and engaging for non-cyclists
+- Mix of data comfort levels—from people who work with data regularly to those who find charts intimidating
 
 Each participant is described generically in the findings (e.g., "Participant A: long-time resident, occasional cyclist") with no personally identifiable information recorded in the write-up. 
 
 ## Interview script
-> List the goals from your research, and the questions you intend to ask. 
 
-Text here!
+>Research Goals
+
+The user research aimed to answer these questions:
+
+1. Do readers clearly understand the main question the story is trying to answer? Does the sequence of sections make sense, or do they get lost or confused?
+
+2. Are the maps and charts easy to read for non-experts? Are there any visuals that feel overwhelming, cluttered, or confusing?
+
+3. Do readers find the topic interesting and relevant to Pittsburgh? Do they connect the data back to real neighborhoods and people?
+
+4. Does the story successfully communicate inequities in access and usage without being overly accusatory or too technical?
+
+5. Are the interactive elements (tooltips, filters, hover states) intuitive and helpful, or do they distract from the narrative?
+
+6. Does this feel like a tool that could actually inform decisions or advocacy? What other information would decision-makers need?
 
 | Goal | Questions to Ask |
 |------|------------------|
-|      |                  |
+|  Warm-up & context    |   • Can you tell me a little about your familiarity with Pittsburgh's bike-share system, if any?• How comfortable are you usually with reading maps or charts?               |
 |      |                  |
 |      |                  |
 
