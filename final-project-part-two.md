@@ -8,9 +8,28 @@ Text here!
 # User research 
 
 ## Target audience
-> Include your approach to identifying representative individuals, and who you hope to reach with your story. 
+> Following feedback to frame this story from a transit planner or advocate's perspective, I refined my target audience to focus primarily on decision-makers and advocacy groups who have the power to influence bike-share expansion strategy. This shifts the story from observational analysis to actionable decision-making tool.
+Primary audience:
 
-Text here!
+Transit planners and bike-share operators making expansion decisions about where to place new stations
+Transportation advocates building evidence-based cases for better service in underserved communities
+City officials and policymakers allocating resources for active transportation infrastructure
+
+**Secondary audience:**
+
+Civically engaged Pittsburgh residents who want to understand and potentially influence transportation equity issues
+Urban planning students and researchers interested in bike-share equity analysis methodologies
+
+**Identifying representative individuals to interview**
+
+My approach to recruiting interviewees:
+
+Snowball sampling among peers and friends who live in Pittsburgh or nearby and have varying levels of data literacy
+Prioritize participants who think like decision-makers or advocates—at least one participant who works in or studies something related to urban planning, public policy, or community advocacy
+At least one participant who rarely or never uses bike-share, to test whether the story is accessible and engaging for non-cyclists
+Mix of data comfort levels—from people who work with data regularly to those who find charts intimidating
+
+Each participant is described generically in the findings (e.g., "Participant A: long-time resident, occasional cyclist") with no personally identifiable information recorded in the write-up. 
 
 ## Interview script
 > List the goals from your research, and the questions you intend to ask. 
