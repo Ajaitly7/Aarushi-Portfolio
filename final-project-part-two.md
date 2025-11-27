@@ -1,13 +1,12 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Wireframes / storyboards
-> Using your sketches developed last week, further develop your story outline and relevant components visually through the use of wireframing / storyboards. Using your outline as a guide, include high-fidelity, individual draft data visualizations of the critical elements of your story you want to share with your reader. Note: you can build these elements out directly in Shorthand this week if you wish.  Reminder: this template is intended to help, but it doesn't substitute for reading through the full homework assignment!  The assignment page on Canvas includes many important details for completing Part II of the final project. 
-
-Shorthand Link: https://preview.shorthand.com/N1zti9c6aZMBOPpw
+>Shorthand Link: https://preview.shorthand.com/N1zti9c6aZMBOPpw
 
 # User research 
 
 ## Target audience
+
 The **primary audience** for this story is:
 
 - **City staff and transportation planners** (e.g., Department of Mobility & Infrastructure, POGOH staff) who are directly involved in decisions about station placement.
@@ -30,7 +29,7 @@ My goal was to understand whether the **story arc, visuals, and call to action**
 
 ## Interview script
 
->Research Goals
+>**Research Goals**
 
 The user research aimed to answer these questions:
 
@@ -43,8 +42,6 @@ I structured my user research around three main goals:
 3. **Actionability:**  
    Does the final section make it clear what a planner or advocate could actually *do* with this information?
 
-
-
 ### Goals and questions
 
 | Goal | Questions to Ask |
@@ -54,8 +51,6 @@ I structured my user research around three main goals:
 | Evaluate actionability and emotional impact | 7. After seeing the “priority areas” section, do you feel like you know what the recommended actions are?<br>8. If you were a planner, what decision could you make using this story?<br>9. Is there any information you wish you had but don’t see here?<br>10. How does this story make you feel about bike-share in Pittsburgh (if at all)? |
 
 
-
-Text here!
 
 ## Interview findings
 
@@ -90,7 +85,6 @@ Text here!
 
 
 # Identified changes for Part III
-> Document the changes you plan on implementing next week to address any issues identified.  
 
 Based on the interviews, I synthesized a set of concrete design changes to implement for Part III.
 
@@ -118,5 +112,14 @@ I will use these findings as a checklist when refining my Shorthand layout, edit
 - Western Pennsylvania Regional Data Center – Healthy Ride / POGOH trip and station datasets.  
 - U.S. Census Bureau – American Community Survey (ACS) data for neighborhood-level demographics.  
 - POGOH (Pittsburgh’s bike-share system) website and public data documentation.
+
+## AI References:
+
+I used an AI assistant (ChatGPT, GPT-5.1 Thinking) to:
+
+- Help translate my Part I outline into a more detailed storyboard and Shorthand structure.  
+- Draft an initial version of my user research protocol (research questions and script) and findings summary.  
+
+I conducted the **actual user interviews** myself and synthesized their feedback into the design changes listed above. I reviewed and edited all AI-generated text to ensure that it reflects my own project, data, and design decisions.
 
 
