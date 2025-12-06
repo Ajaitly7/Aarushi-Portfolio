@@ -1,4 +1,4 @@
-| [home page](https://github.com/Ajaitly7/Aarushi-Portfolio/blob/main/README.md) | ) | [critique by design](https://github.com/Ajaitly7/Aarushi-Portfolio/blob/main/critique-by-design.md) | [final project I](https://github.com/Ajaitly7/Aarushi-Portfolio/blob/main/final-project-part-one.md) | [final project II](https://github.com/Ajaitly7/Aarushi-Portfolio/blob/main/final-project-part-two.md) | [final project III](https://github.com/Ajaitly7/Aarushi-Portfolio/blob/main/final-project-part-three.md) |
+| [home page](https://github.com/Ajaitly7/Aarushi-Portfolio/blob/main/README.md) |  | [critique by design](https://github.com/Ajaitly7/Aarushi-Portfolio/blob/main/critique-by-design.md) | [final project I](https://github.com/Ajaitly7/Aarushi-Portfolio/blob/main/final-project-part-one.md) | [final project II](https://github.com/Ajaitly7/Aarushi-Portfolio/blob/main/final-project-part-two.md) | [final project III](https://github.com/Ajaitly7/Aarushi-Portfolio/blob/main/final-project-part-three.md) |
 
 # Portfolio
 This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
