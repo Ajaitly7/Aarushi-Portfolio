@@ -22,6 +22,8 @@ All the things - obviously. Maybe I want to make a list of all the things.  If s
 
 The final story examines equity in Pittsburgh's POGOH bike-share system through 2025 ridership data. By analyzing 506,034 trips across 60 stations, the story reveals stark disparities in access and usage: 64.1% of all trips originate in Oakland, where universities provide free membership, while underserved neighborhoods like Homewood and Hazelwood see minimal ridership despite having stations. The story concludes with three concrete recommendations for expanding bike-share as equitable transportation infrastructure.
 
-[final project I](https://github.com/Ajaitly7/Aarushi-Portfolio/blob/main/final-project-part-one.md)] 
-[final project II](https://github.com/Ajaitly7/Aarushi-Portfolio/blob/main/final-project-part-two.md)]
-[final project III](https://github.com/Ajaitly7/Aarushi-Portfolio/blob/main/final-project-part-three.md) ]
+[final project I](https://github.com/Ajaitly7/Aarushi-Portfolio/blob/main/final-project-part-one.md)
+
+[final project II](https://github.com/Ajaitly7/Aarushi-Portfolio/blob/main/final-project-part-two.md)
+
+[final project III](https://github.com/Ajaitly7/Aarushi-Portfolio/blob/main/final-project-part-three.md) 
