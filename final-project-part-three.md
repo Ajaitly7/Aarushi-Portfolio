@@ -1,7 +1,7 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # The final data story
-> **[Building a Bike System for All of Pittsburgh]()**
+> **[Building a Bike System for All of Pittsburgh](https://preview.shorthand.com/SEqXeLaH05TDWIP1/responsive/desktop)**
 
 The final story examines equity in Pittsburgh's POGOH bike-share system through 2025 ridership data. By analyzing 506,034 trips across 60 stations, the story reveals stark disparities in access and usage: 64.1% of all trips originate in Oakland, where universities provide free membership, while underserved neighborhoods like Homewood and Hazelwood see minimal ridership despite having stations. The story concludes with three concrete recommendations for expanding bike-share as equitable transportation infrastructure.
 
