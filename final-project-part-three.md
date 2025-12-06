@@ -1,7 +1,7 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # The final data story
-> **[Building a Bike System for All of Pittsburgh](https://preview.shorthand.com/SEqXeLaH05TDWIP1/responsive/desktop)**
+> Shorthand: **[Building a Bike System for All of Pittsburgh](https://preview.shorthand.com/SEqXeLaH05TDWIP1/responsive/desktop)**
 
 The final story examines equity in Pittsburgh's POGOH bike-share system through 2025 ridership data. By analyzing 506,034 trips across 60 stations, the story reveals stark disparities in access and usage: 64.1% of all trips originate in Oakland, where universities provide free membership, while underserved neighborhoods like Homewood and Hazelwood see minimal ridership despite having stations. The story concludes with three concrete recommendations for expanding bike-share as equitable transportation infrastructure.
 
@@ -11,7 +11,7 @@ The transition from Part II to the final deliverable involved significant refine
 
 **Sharpening the equity focus**
 
-Part II's wireframes presented bike-share equity as a general access issue. The final story narrows this to a more specific, actionable question: *Is POGOH a city-wide transportation system, or effectively a university amenity?* This reframing came directly from the data—when I calculated that 64.1% of trips originate in Oakland, it became impossible to ignore. User research participants responded strongly to this concrete statistic, so I moved it to the very top of the story and made it the organizing principle for the entire narrative.
+Part II's wireframes presented bike-share equity as a general access issue. The final story narrows this to a more specific, actionable question: *Is POGOH a city-wide transportation system, or effectively a university amenity?* This reframing came directly from the data when I calculated that 64.1% of trips originate in Oakland, it became impossible to ignore. User research participants responded strongly to this concrete statistic, so I moved it to the very top of the story and made it the organizing principle for the entire narrative.
 
 **Leading with impact, not setup**
 
