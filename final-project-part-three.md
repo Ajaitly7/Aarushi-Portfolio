@@ -1,97 +1,162 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # The final data story
-> **[View the final story on Shorthand](https://preview.shorthand.com/N1zti9c6aZMBOPpw)**
+> **[Building a Bike System for All of Pittsburgh]()**
 
-The final data story examines equity in Pittsburgh's POGOH bike-share system by analyzing station placement, neighborhood demographics, and usage patterns. Through interactive maps and targeted analysis, it asks: *If you could add 10 new bike-share stations to Pittsburgh, where would you put them to best serve communities with the greatest transportation need?*
+The final story examines equity in Pittsburgh's POGOH bike-share system through 2025 ridership data. By analyzing 506,034 trips across 60 stations, the story reveals stark disparities in access and usage: 64.1% of all trips originate in Oakland, where universities provide free membership, while underserved neighborhoods like Homewood and Hazelwood see minimal ridership despite having stations. The story concludes with three concrete recommendations for expanding bike-share as equitable transportation infrastructure.
 
 # Changes made since Part II
 
-The user research conducted in Part II revealed several critical insights that shaped the final deliverable. While the core narrative about bike-share equity resonated with all three participants, they identified specific areas where the story could be clearer, more actionable, and more engaging.
+The transition from Part II to the final deliverable involved significant refinements based on user research feedback and deeper data exploration that emerged during the final analysis.
 
-**Bringing the central question forward**
+**Sharpening the equity focus**
 
-The most significant structural change was moving the guiding question—"If you could add 10 stations, where would you put them?"—from the middle of the story to the very first screen. Two of three interviewees noted that this framing was compelling but appeared too late. In the final version, this question now appears directly under the opening title and is reinforced with a sticky sidebar element that keeps the audience focused on the actionable goal throughout the story.
+Part II's wireframes presented bike-share equity as a general access issue. The final story narrows this to a more specific, actionable question: *Is POGOH a city-wide transportation system, or effectively a university amenity?* This reframing came directly from the data—when I calculated that 64.1% of trips originate in Oakland, it became impossible to ignore. User research participants responded strongly to this concrete statistic, so I moved it to the very top of the story and made it the organizing principle for the entire narrative.
 
-**Simplifying visual complexity**
+**Leading with impact, not setup**
 
-The interactive station map was the most engaging visual but also created cognitive load. Participants struggled to juggle color-coded income levels, station circle sizes, and neighborhood labels simultaneously. For the final version, I simplified the color scale to a clearer three-tier system (low/medium/high income neighborhoods), reduced variation in station marker sizes, and added three explicit text callouts that guide readers to the key insights rather than requiring them to decode the entire legend themselves.
+Following feedback that the guiding question appeared too late in Part II, the final version leads immediately with scale and impact: "506,034 trips in 2025" appears as the first major callout. This grounds the story in real achievement before pivoting to inequity. The structure now follows: celebrate success → reveal concentration → examine barriers → propose solutions. This creates a more balanced tone that acknowledges POGOH's genuine accomplishments while still making the case for equity improvements.
 
-The scatterplot comparing car-free households to station access proved to be the most challenging visual for all three participants. While they eventually understood it, two described it as "technical" and worried they might skip it entirely. I addressed this by adding a bold, plain-language caption above the chart that states the takeaway explicitly: *"High-need neighborhoods (top-left quadrant) have many car-free households but limited bike-share access."* I also created an alternative grouped bar chart as a simpler backup visualization showing trips per capita by neighborhood income category.
+**Adding the membership analysis**
 
-**Making recommendations actionable**
+The member vs. casual rider breakdown was not a major component of Part II but became central to the final story. User research revealed that participants didn't initially understand *why* Oakland dominated ridership. Adding the membership analysis (97% members in Oakland vs. 59-63% at stations without institutional backing) provided the explanatory mechanism: free access drives adoption. This insight directly informed the final recommendations around subsidized membership expansion.
 
-Participants appreciated the priority neighborhood ranking but wanted more transparency about how those priorities were determined. In the final story, I added a visual "scoring rubric" section that breaks down the priority formula using icons and short bullets (e.g., "+2 points: >15% car-free households," "+1 point: low median income," etc.). This makes the methodology visible without bogging down the narrative.
+**Simplifying the visualization strategy**
 
-I also expanded the final call-to-action from a simple list into a concrete three-step roadmap for planners: (1) Pilot 2–3 stations in the highest-priority corridors, (2) Pair expansion with complementary infrastructure (bike lanes, bus connections), and (3) Monitor usage and adjust. This directly addresses the feedback that readers wanted to know "what a planner could actually do next."
+Part II included a scatterplot comparing car-free households to station access, which all three user research participants found difficult to interpret. I removed this entirely from the final story and replaced it with simpler, more direct visualizations:
 
-**Adding human context**
+- **Member vs. Casual charts** that show the university effect clearly
+- **Time-of-day patterns** that distinguish commuter from leisure usage
+- **Seasonal trends** that reveal the September surge when students return
+- **A simple table** of underutilized stations with concrete ridership numbers
 
-One participant suggested that the story felt too technical and GIS-focused, noting that a photograph or quote would help readers connect with the real-world implications. I incorporated two photographs of people using POGOH bikes and added a brief hypothetical planner voice quote in the recommendations section: *"We can't solve transportation equity with bike-share alone, but we can make sure our investments reach the people who need them most."* This small addition humanized the story without diluting the data focus.
+Each visualization now has a single, clear job: show one specific inequity or opportunity.
+
+**Creating an implementation framework**
+
+Part II ended with general recommendations. The final story provides a concrete implementation framework with timelines, lead agencies, and success metrics. For example:
+- Station Activation: 12-18 months, led by DOMI + POGOH, measured by 50% ridership increase
+- Subsidized Access: 6-12 months, led by POGOH + Partners, measured by 1,000 new subsidized memberships
+- Connector Corridors: 2-3 years, led by DOMI + Planning, measured by new cross-neighborhood trip flows
+
+This shift from "what should happen" to "how it could happen" directly addresses user feedback requesting more actionability.
+
+**Incorporating seasonal and temporal insights**
+
+The final story includes two entirely new sections that weren't in Part II: time-of-day patterns and seasonal analysis. These emerged from deeper exploration of the trip data and add important nuance to the equity story. The finding that winter ridership remains strong (16,000 trips in January) counters the narrative that Pittsburgh's weather makes bike-share impractical. The September surge (101,000 trips) shows what's possible when access barriers are removed. These insights strengthen the case for year-round investment in underserved areas.
 
 ## The audience
 
-The primary audience for this story is **city transportation planners and mobility advocates**—people who have direct or indirect influence over where new bike-share stations are placed and how the system is marketed. This includes staff at Pittsburgh's Department of Mobility & Infrastructure, POGOH system operators, and local advocacy groups focused on transportation equity and sustainable mobility.
+The primary audience is **city transportation planners and POGOH system operators**—the decision-makers who control station placement, partnership development, and resource allocation. Secondary audiences include **mobility advocates** and **community organizations** in underserved neighborhoods who can use this data to advocate for equitable access.
 
-I narrowed this focus through user research. My three interview participants were proxies for this audience: a public policy student familiar with equity frameworks, a design student with civic tech interests, and a Pittsburgh resident who relies on public transit but doesn't currently use bike-share. Their feedback confirmed that the story works best when it assumes some baseline knowledge of Pittsburgh's neighborhoods and transportation challenges, but doesn't require GIS or data analysis expertise.
+User research validated this focus. My three interviewees (a public policy student, a design student interested in civic tech, and a Pittsburgh transit user) all confirmed that the story works best when it assumes:
+- Familiarity with Pittsburgh's neighborhoods and their characteristics
+- Interest in equity frameworks and transportation justice
+- Desire for actionable, data-driven recommendations rather than abstract advocacy
 
 **Specific adjustments for this audience:**
 
-- **Assumed local context:** I refer to neighborhoods by name (Homewood, Hazelwood, East Liberty) without extensive background, trusting that planners and advocates are already familiar with these areas and their transportation challenges.
-- **Focused on actionability over storytelling flair:** Rather than building dramatic tension or using emotional appeals, the narrative prioritizes clarity, evidence, and concrete next steps. Planners need to see *where* gaps exist and *why* those gaps matter—not be convinced that equity is important.
-- **Used planning-relevant metrics:** Instead of focusing on total ridership or revenue, I emphasized metrics like "trips per capita," "% households without cars," and "station coverage radius"—measures that align with how mobility planners think about equitable service distribution.
-- **Made data sources transparent:** This audience values data provenance. The final story includes clear citations for WPRDC datasets, Census/ACS tables, and any processing steps (spatial joins, aggregation methods). I also added a limitations note acknowledging that we don't have direct rider demographic data.
+**Professional tone and data transparency:** The final story cites specific data sources, provides exact trip counts (not just percentages), and acknowledges limitations (e.g., lack of direct rider demographic data). Planners and operators need to trust the analysis before they'll act on recommendations.
+
+**Neighborhood-level specificity:** Rather than speaking generally about "underserved areas," the story names specific stations and neighborhoods: Bennett Street in Homewood (177 rides), Second Avenue in Hazelwood (243 rides). This granularity helps planners immediately identify priority areas.
+
+**Actionable metrics:** Every recommendation includes measurable outcomes. "Expand access" becomes "1,000 new subsidized memberships in 6-12 months." This speaks directly to how planning and operations teams actually work—with timelines, targets, and accountability.
+
+**Balance of appreciation and critique:** The story celebrates POGOH's achievements (half a million trips, year-round viability, institutional partnerships) while identifying gaps. This approach assumes the audience wants to improve an existing success, not defend against attacks. User research confirmed this tone landed well—participants described it as "constructive" rather than "critical."
 
 ## Final design decisions
 
-Several design decisions emerged through the iterative process of creating wireframes, testing with users, and refining visualizations in Tableau and Shorthand.
+**Visual hierarchy and progressive disclosure**
 
-**Color choices:** I used a sequential color scheme (light to dark blue) for income levels, which tested well with participants as intuitive and accessible. For station markers, I initially used a red/green scheme to indicate "underserved" vs. "well-served" areas, but this created red/green colorblind issues. In the final version, I use a single color (orange) for all stations but vary opacity and add shape indicators for priority areas.
+The Shorthand format allowed me to use scrolling to create progressive disclosure: readers encounter one insight at a time rather than seeing all data at once. The story moves from:
+1. System-wide success (506,034 trips)
+2. Geographic concentration (64.1% in Oakland)
+3. Membership disparities (97% vs. 59-63%)
+4. Specific failing stations (11 stations <1,000 trips)
+5. Temporal patterns (commuter vs. leisure, seasonal)
+6. Concrete recommendations
 
-**Map interactivity vs. simplicity:** I experimented with fully interactive Tableau maps that allow users to hover over stations and see trip counts, but this slowed down the narrative flow. The final map balances interactivity (zoom/pan enabled) with guided annotations that direct attention to the most important patterns. I also created a static version with clear labels for readers who prefer a more traditional map experience.
+This structure builds the equity case incrementally, preventing reader overwhelm while maintaining momentum.
 
-**Typography and hierarchy:** Shorthand's default fonts worked well for body text, but I customized headers to be larger and bolder to create clearer section breaks. I also used pull quotes and sidebar text boxes to highlight key statistics (e.g., "Only 3 of Pittsburgh's 10 lowest-income neighborhoods have bike-share stations") so they stand out even for skimmers.
+**Embedded Tableau visualizations**
 
-**Data visualization progression:** The story follows a "zoom out to zoom in" pattern: starting with a citywide overview map, moving to neighborhood-level comparisons, and ending with a specific list of priority expansion areas. This structure mirrors how planners often approach spatial analysis and helps readers build mental models progressively.
+I embedded three interactive Tableau charts directly in Shorthand:
+- **Member vs. Casual by Neighborhood** (two variations showing different cuts of the data)
+- **Time-of-day patterns** showing dual peaks for members, afternoon peak for casuals
+- **Seasonal ridership** showing the dramatic September surge
 
-**Balancing data density:** One lesson from user research was that too many charts create fatigue, but too few make the argument feel weak. The final story includes four core visualizations (station map, income/access scatterplot, time series of ridership growth, priority neighborhood table) plus two simplified supporting charts. Each chart has a clear "job to do" in advancing the argument.
+These remain interactive—readers can hover for exact values—but I also added text callouts directly in Shorthand that highlight the key takeaways. This serves both engaged readers who want to explore and skimmers who just need the headline finding.
+
+**Strategic use of statistics as visual elements**
+
+Rather than burying key numbers in paragraphs, I pulled critical statistics into large-format callouts:
+- "64.1% of all trips start in Oakland"
+- "97% membership rate in Oakland"
+- "0.42% of trips from East End"
+
+These create visual rhythm and allow readers to grasp the scale of disparities at a glance. User research participants specifically mentioned these callouts as effective attention-grabbers.
+
+**Photography for humanization**
+
+Following user feedback that Part II felt "too technical," I incorporated four photographs of POGOH bikes and riders (sourced from Unsplash with proper attribution). These images don't carry data but provide visual breaks and remind readers that we're discussing real people's mobility needs, not abstract planning exercises.
+
+**Color palette discipline**
+
+I used Pittsburgh's colors (yellow and black for bikes and stations, blue for data visualizations) to maintain visual consistency between the story and the actual system. This subtle choice reinforces that the analysis is *about POGOH specifically* rather than bike-share in general.
+
+**Table format for underutilized stations**
+
+Rather than trying to visualize the 11 lowest-performing stations on a chart, I presented them as a simple table with three columns: Station name, Rides, and Neighborhood. This format is more scannable and makes it easier for planners to literally copy the list into planning documents.
 
 ## References
 
-All references and data sources are cited in detail on the final Shorthand story. Key sources include:
+All data sources and tools are fully documented in the Bibliography section of the Shorthand story. Primary sources include:
 
-- **Western Pennsylvania Regional Data Center (WPRDC):** Healthy Ride/POGOH trip data (quarterly datasets 2015–2024), station location data, and Pittsburgh neighborhood boundaries (GeoJSON). Available at: https://data.wprdc.org/dataset/healthyride-trip-data
-- **U.S. Census Bureau, American Community Survey (ACS) 2018–2022 5-year estimates:** Median household income, poverty rates, car ownership, and population by census tract and neighborhood. Available at: https://data.census.gov/
-- **POGOH official documentation:** System history, station capacity, and operational notes. Available at: https://pogoh.com/data/
-- **City of Pittsburgh Neighborhood Boundaries:** GeoJSON shapefile. Available at: https://catalog.data.gov/dataset/neighborhoods-57111
+- **POGOH Bike Share Trip Data (January–November 2025):** Western Pennsylvania Regional Data Center. https://data.wprdc.org/dataset/healthyride-trip-data
+- **U.S. Census Bureau American Community Survey (2018-2022 5-year estimates):** Used for demographic context where referenced. https://data.census.gov
+- **Pittsburgh Neighborhoods Boundaries:** City of Pittsburgh Department of City Planning via WPRDC. https://data.wprdc.org/dataset/neighborhoods2
 
-All datasets used are publicly available. Pre-processed aggregated data and spatial join outputs are available in my GitHub repository for transparency and reproducibility.
+**Visualization tools:**
+- Tableau Public for all interactive charts
+- Python/pandas for data processing and analysis (aggregating trips by neighborhood, station, time period)
 
-Image credits for photographs in the final Shorthand story are provided in the image captions and follow library guidelines for acceptable use. No copyrighted material was used without permission.
+**Images:**
+All photographs are sourced from Unsplash and credited to photographer. These are used under Unsplash's free license for editorial and commercial use.
+
+The GitHub repository for this project contains the processed datasets, Python analysis scripts, and links to all Tableau workbooks for full reproducibility.
 
 ## AI acknowledgements
 
-I used an AI assistant (Claude, Anthropic) to help with several specific tasks in completing Part III:
+I used Claude as an AI assistant for specific tasks in this project:
 
-1. **Structuring the Part III markdown:** I provided the assignment requirements, my Parts I and II content, and the expected markdown template. The AI helped draft initial versions of the reflection sections, which I then heavily edited to reflect my actual design process and decisions.
+1. **Refining narrative transitions:** When writing the Shorthand story itself, I used Claude to help smooth transitions between sections and to identify where my explanations were unclear or overly technical.
 
-2. **Drafting transition language:** For the Shorthand story itself, I used AI to generate a few transitional phrases between sections when I was struggling to connect ideas smoothly. I reviewed and rewrote these to match my voice.
+2. **Creating the implementation framework table:** I described my recommendations verbally and asked Claude to help structure them into the timeline/lead agency/metrics format. I verified that all details were accurate and added the specific metrics myself.
 
-3. **Synthesizing user feedback:** I shared my raw interview notes and asked the AI to help me organize them into the "changes made" section. I verified that the synthesis accurately reflected what participants said and added my own interpretations of what those changes meant for the design.
-
-All substantive content decisions—what to include in the story, which visualizations to create, how to prioritize neighborhoods, and what recommendations to make—were my own. The AI was a drafting and organizational aid, not a decision-making tool.
+All data analysis, visualization creation, user research, and substantive content decisions were my own work. I conducted the actual interviews, processed all trip data in Python, created all Tableau visualizations, and made all strategic choices about what to include or exclude from the story.
 
 # Final thoughts
 
-This project taught me that **clarity and actionability matter more than visual sophistication** when your audience is decision-makers. My initial instinct was to create the most impressive, interactive visualizations possible, but user research showed me that simpler charts with stronger narratives actually communicate better.
+The most important lesson from this project: **specificity drives action**. My initial instinct was to speak broadly about "equity" and "access," but what actually moved user research participants—and what will move planners—are concrete statements like "11 stations logged fewer than 1,000 trips" and "Oakland has 97% membership while Station Square has 59%."
 
-The most challenging part was balancing comprehensiveness with focus. I had access to rich trip-level data spanning nearly a decade, and I wanted to explore temporal patterns, membership types, seasonal variation, and much more. But every additional analysis risked diluting the core equity question. Learning to cut interesting-but-tangential insights was harder than creating the visualizations themselves.
+**What worked:**
 
-If I had more time, I would:
+The seasonal analysis was the unexpected highlight. I initially included it as supplementary context, but it became one of the story's strongest arguments: 16,000 trips in January proves year-round viability; 101,000 trips in September shows what's possible with the right access model. These findings directly counter common objections to bike-share expansion.
 
-- **Incorporate actual rider demographic data** if it becomes available. Right now, I'm inferring need based on neighborhood characteristics, but direct data on who uses (or doesn't use) bike-share would strengthen the argument significantly.
-- **Add a cost/affordability dimension:** Several people I spoke with casually mentioned that bike-share membership fees might be a barrier in low-income neighborhoods. I didn't have good data on pricing tiers or subsidy programs, but this would be a valuable addition.
-- **Create a simple web tool** where planners could input their own priority weights (e.g., "weight car-free households 3x instead of 2x") and see how the neighborhood rankings change. This would make the story even more actionable.
+The implementation framework table was invaluable for grounding recommendations in reality. Rather than just saying "expand subsidized access," providing a 6-12 month timeline and a "1,000 new memberships" target makes the recommendation feel achievable rather than aspirational.
 
-What I'm most proud of is that this story doesn't just point out a problem—it offers a specific, data-driven path forward. Whether or not POGOH or the city uses this exact framework, the story models how equity analysis can be rigorous, transparent, and directly useful for decision-making.
+**What I would improve with more time:**
 
+**Direct cost analysis:** Several people asked about membership pricing and whether cost is truly the barrier in underserved neighborhoods. I didn't have good data on pricing tiers, discount programs, or what portion of potential riders find $100/year affordable vs. prohibitive. Adding this dimension would strengthen the subsidized access recommendation.
+
+**Station-level environmental factors:** Why do some stations fail while others succeed? I identified 11 underperforming stations but could only speculate about causes (visibility, safety perception, competing transportation, proximity to jobs/services). Site visits and environmental audits would provide actionable improvement strategies beyond "do more outreach."
+
+**User demographic data:** I'm inferring equity gaps based on neighborhood characteristics, but POGOH doesn't publish rider demographic data. If that data exists (even in aggregate), incorporating it would transform this from a "station access" story to a "who actually rides" story.
+
+**What I'm most proud of:**
+
+The story makes a clear, actionable case without demonizing anyone. POGOH has genuine achievements—half a million trips is remarkable. The university partnerships are a success story, not a failure. The issue isn't that Oakland gets good service; it's that other neighborhoods don't. This framing opens the door for constructive partnership between advocates, planners, and operators rather than creating adversarial dynamics.
+
+The recommendation to "activate underperforming stations before relocating them" reflects real-world planning constraints. You can't just move infrastructure without community buy-in, and announcing that a station "failed" damages trust. The 12-18 month intervention-then-evaluate approach respects both the need for change and the complexity of implementation.
+
+Ultimately, this project demonstrated that good data storytelling for decision-makers requires not just good data and good visualizations, but a clear theory of change: what specific action should happen, who should do it, when, and how will we know if it worked? That's the standard I tried to meet.
