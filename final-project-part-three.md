@@ -1,4 +1,4 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](https://github.com/Ajaitly7/Aarushi-Portfolio/blob/main/final-project-part-one.md) | [final project II](https://github.com/Ajaitly7/Aarushi-Portfolio/blob/main/final-project-part-two.md) | [final project III](final-project-part-three) |
 
 # The final data story
 > Shorthand: **[Building a Bike System for All of Pittsburgh](https://preview.shorthand.com/SEqXeLaH05TDWIP1/responsive/desktop)**
